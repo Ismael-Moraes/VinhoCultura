@@ -1,5 +1,5 @@
 # Autores:
-- Ismael Moraes (leading page)
+- Ismael Moraes (landing page)
 - Jader Peres (login)
 - Miguel Lessa (cadastro)
 - Jhonatan de Sousa (dashboard)
